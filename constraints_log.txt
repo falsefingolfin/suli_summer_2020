@@ -1,0 +1,2 @@
+Gen = 3:    min_realvar[1] changed from 3.850000 to 3.465000
+Gen = 5:    min_realvar[3] changed from 0.450000 to 0.405000

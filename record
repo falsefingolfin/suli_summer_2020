@@ -1,0 +1,21 @@
+All calculated values below refer to the mesh geometry only.
+Field normalization (NORM = 1):    EZEROT =      0.60690 MV/m
+Frequency                                 =   1449.22390 MHz
+Particle rest mass energy                 =   938.272029 MeV
+Beta =  1.0000000
+Normalization factor for E0 =  1.105 MV/m =     9543.974
+Transit-time factor                       =    0.5494711
+Stored energy                             =    0.0131729 Joules
+Using standard room-temperature copper.
+Surface resistance                        =      9.93182 milliOhm
+Normal-conductor resistivity              =      1.72410 microOhm-cm
+Operating temperature                     =      20.0000 C
+Power dissipation                         =    4202.2936 W
+Q    =   28543.7          Shunt impedance =       43.051 MOhm/m
+Rs*Q =   283.491 Ohm                Z*T*T =       12.998 MOhm/m
+r/Q  =    67.529 Ohm  Wake loss parameter =      0.15372 V/pC
+Average magnetic field on the outer wall  =      4778.26 A/m, 11.3381 W/cm^2
+Maximum H (at Z,R = 4.96309,5.21997)      =      4951.54 A/m, 12.1753 W/cm^2
+Maximum E (at Z,R = 4.52006,3.21091)      =      5.02161 MV/m, 0.149043 Kilp.
+Ratio of peak fields Bmax/Emax            =       1.2391 mT/(MV/m)
+Peak-to-average ratio Emax/E0             =       4.5465
