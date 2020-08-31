@@ -22,6 +22,15 @@ The key calculation results are extracted from the SUPERFISH output file "input.
 
 The objectives and constraints are defined in problemdef.c
 
+-------------------------------------------------------------------------
+
+RF cavity EM field solver Autofish.exe is from Los Alamos National Laboratory Poisson Superfish.
+Program Autofish is written by James H. Billen and Lloyd M. Young
+
+The original Poisson Superfish codes were developed by Ron F. Holsinger in collaboration with Klaus Halbach. These programs are provided as a service to the accelerator community by the Los Alamos Accelerator Code Group (LAACG).
+
+K. Halbach and R. F. Holsinger, "SUPERFISH - a computer program for evaluation of rf cavities with cylindrical symmetry," Part. Accel. 7, 213-222. 29 p (1976).
+
 
 --------------------------------------------------------------------------
 
