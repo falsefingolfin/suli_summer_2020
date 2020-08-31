@@ -2,6 +2,8 @@ Developed as an intern with ATAP-BACI group at Lawrence Berkeley National Labs.
 
 Credit to Tianhuan Luo for the the majority of the work in modifying the NSGA-II algorithm for use in RF cavity design.
 
+The intern primarily worked on the files: nsga2r.c, runtime_script.sh, constraints.c
+
 -------------------------------------------------------------------------
 
 This folder contains the example files of the SUPERFISH running with NSGA-II and OpenMPI.
